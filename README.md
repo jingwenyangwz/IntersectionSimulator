@@ -1,4 +1,4 @@
-# IntersectionSimulator
+# Intersection Simulator [Concurrency patterns]
  an intersection simulator application
 Create multiple Car threads, each with a random ID (random integer), that wants to cross the intersection
 - Crossing the intersection works as follows:
